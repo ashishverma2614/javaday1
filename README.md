@@ -1,2 +1,2 @@
-# javaday1
+# JAVA SELF STUDY
 studying java sample codes
